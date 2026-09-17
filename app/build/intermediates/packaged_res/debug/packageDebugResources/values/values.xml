@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#5B4CFF</color>
+    <color name="launcher_bg">#5B4CFF</color>
+    <string name="app_name">AiConverse</string>
+    <style name="Theme.AiConverse" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
